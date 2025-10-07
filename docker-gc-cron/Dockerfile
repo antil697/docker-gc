@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.22
 
 ARG DOCKER_VERSION=19.03.12
 
